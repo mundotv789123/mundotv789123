@@ -2,7 +2,7 @@
 
 > Primeiro devemos nos atentar a versão do sistema operacional, a versão que irei usar é o ubuntu 20.04 (lembrando que também funciona para versões 20.X/18.X).
 
-> A instalação será auxiliada atráves de um script que estarei disponibilizando no meu perfil do [github](https://https://github.com/mundotv789123/scripts/blob/master/install/pterodactyl_ssl.sh).
+> A instalação será auxiliada atráves de um script que estarei disponibilizando no meu perfil do [github](https://github.com/mundotv789123/scripts/blob/master/install/pterodactyl_ssl.sh).
 
 > Antes de iniciar a instalação vamos primeiro preparar nossa vps/dedicado.
 A instalação exige que um nome de domínio esteja dedicado apenas para o painel, exemplo: painel.seudomínio.com
