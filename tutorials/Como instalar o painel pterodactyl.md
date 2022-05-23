@@ -81,7 +81,7 @@ Nesse ponto o script irá perguntar se você deseja criar o certificado ssl, cas
 
 > Na aba configuration iremos copiar todo o arquivo de configuração.
 
-> Em seguida no terminal iremos executar o seguinte comando nano `/etc/pterodactyl/config.yml` basta clicar com o botão direito e em seguicar colar.
+> Em seguida no terminal iremos executar o seguinte comando `nano /etc/pterodactyl/config.yml` basta clicar com o botão direito e em seguicar colar.
 
 ![](https://mundotv789123.pages.dev/imgs/1652541825487.png)
 
